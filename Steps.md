@@ -15,6 +15,7 @@
 **20 listopada(2 tygodnie)
  -Rozdział 3. Funkcje, przeczytanie i zrobienie ćwiczeń \
  -wykonanie programu rysujacego funkcje kwadratową \ pomoc== https://www.youtube.com/watch?v=rlKJcrFfrcg \
+ -grafika Turtle w Pythonie - program rysujący ścieżkę dwórch żółwi Tim'a i Dave'a\ pomoc== https://www.youtube.com/watch?v=p7CiFhiTdvY \
 
 **4 grudnia(2 tygodnie)
 -Rozdział 7. Iteracja, przeczytanie i zrobienie ćwiczeń \
