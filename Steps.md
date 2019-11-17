@@ -14,7 +14,7 @@
  
 **20 listopada(2 tygodnie)
  -Rozdział 3. Funkcje, przeczytanie i zrobienie ćwiczeń \
- -wykonanie programu rysujacego funkcje kwadratową \
+ -wykonanie programu rysujacego funkcje kwadratową \ pomoc== https://www.youtube.com/watch?v=rlKJcrFfrcg \
 
 **4 grudnia(2 tygodnie)
 -Rozdział 7. Iteracja, przeczytanie i zrobienie ćwiczeń \
