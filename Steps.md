@@ -20,6 +20,10 @@
 
 **4 grudnia(2 tygodnie)
 -Rozdział 7. Iteracja, przeczytanie i zrobienie ćwiczeń \
+-napisanie programu rysującego wykresy dwóch funkcji
+   (f(x) = x/(-3) + a dla x <= 0,
+    f(x) = x*x/3 dla x >= 0,
+  gdzie x = <-10;10> z krokiem 0.5. Współczynnik a podaje użytkownik)
 -napisanie programu z wykorzystaniem algorytmu metody potęgowej 
 
 **18 grudnia(2 tygodnie)
