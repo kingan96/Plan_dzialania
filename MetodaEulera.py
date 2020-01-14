@@ -19,15 +19,15 @@ x = np.zeros(len(t))
 x[0] = x0
 for i in  xrange(1, len(t)):
     x[i] = x[i-1] + f(x[i -1])* dt
-    # zapisuhe rozwiazanie w notatniku
-    np.savetxt(’t.txt’, t)
-    np.savetxt(’x.txt’, x)
-    # Tworze nowa figure
-    plt.figure ()
-    # Drukuje rozwiazanie
-    plt.plot(t, x, color = ’blue’)
-    # Etykieta osi
-    splt.xlabel(’t’)
-    plt.ylabel(’x(t)’)
-    # Zapisuje figure
-    plt.savefig(’plot.pdf’)
+# zapisuhe rozwiazanie w notatniku
+np.savetxt(’t.txt’, t)
+np.savetxt(’x.txt’, x)
+# Tworze nowa figure
+plt.figure ()
+# Drukuje rozwiazanie
+plt.plot(t, x, color = ’blue’)
+# Etykieta osi
+splt.xlabel(’t’)
+plt.ylabel(’x(t)’)
+# Zapisuje figure
+plt.savefig(’plot.pdf’)
