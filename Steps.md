@@ -24,11 +24,10 @@
    (f(x) = x/(-3) + a dla x <= 0,
     f(x) = x*x/3 dla x >= 0,
   gdzie x = <-10;10> z krokiem 0.5. Współczynnik a podaje użytkownik)\
--napisanie programu z wykorzystaniem algorytmu metody potęgowej 
 
 **18 grudnia(2 tygodnie)
 -Rozdział 8. Łańcuchy, przeczytanie i zrobienie ćwiczeń \
--napisanie programu z wykorzystaniem algorytmu metody prostokątów 
+-napisanie programu z wykorzystaniem algorytmu metody Euler'a 
 
 **15 styczeń(4 tygodnie)
 -Rozdział 10. Listy, 12. Korki, 19. Przydatne elementy, przeczytanie i zrobienie ćwiczeń 
