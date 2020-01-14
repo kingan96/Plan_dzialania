@@ -1,0 +1,18 @@
+class CrossSection(object):
+    def __init__(self, b, h):
+        self.b = b
+        self.h = h
+     def area(self):    
+        area = (self.b * self.h) 
+        return area
+    
+class Material(object):
+    def __init__(self, E, v, fc):    
+        self.E = E
+        self.v = v
+        self.fc = fc
+        
+class load(object):
+      def __init__(self, position, value):
+          self.position = position
+          self.value = value
