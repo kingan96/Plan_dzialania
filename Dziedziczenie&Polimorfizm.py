@@ -10,7 +10,7 @@ class Rectangle (object):
 class Square (Rectangle):
      def __init__(self,a):
 
-         super()__init(a,a)__
+         super().__init__(a,a)
    
 r = Rectangle(3,7)       
 s = Square(4)  
