@@ -1,0 +1,17 @@
+import turtle
+
+dave = turtle.Turtle() 
+dave.color('red','yellow')
+dave.pensize(2)
+dave.shape('turtle')
+dave.speed(1)
+dave.begin_fill()
+
+def kwadrat(turtle, bok):
+    for i in range(4):
+        turtle.forward(bok)
+        turtle.left(90)
+        
+kwadrat(dave, 50)
+dave.end_fill()
+turtle.done()
